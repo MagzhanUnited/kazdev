@@ -11,18 +11,18 @@
           <h2
             class="font-semibold text-xl sm:text-2xl md:text-4xl text-neutral-9 dark-text-white"
           >
-            5+
+            8
           </h2>
-          <p class="mt-2 text-neutral7 dark-text-neutral3">Созданных проект</p>
+          <p class="mt-2 text-neutral7 dark-text-neutral3">Разработчиков</p>
         </div>
 
         <div class="text-center">
           <h2
             class="font-semibold text-xl sm:text-2xl md:text-4xl text-neutral-9 dark-text-white"
           >
-            7+
+            3
           </h2>
-          <p class="mt-2 text-neutral7 dark-text-neutral3">Проект</p>
+          <p class="mt-2 text-neutral7 dark-text-neutral3">DevOps</p>
         </div>
 
         <div class="text-center">
@@ -31,16 +31,16 @@
           >
             5
           </h2>
-          <p class="mt-2 text-neutral7 dark-text-neutral3">Довольные клиенты</p>
+          <p class="mt-2 text-neutral7 dark-text-neutral3">Аналитиков</p>
         </div>
 
         <div class="text-center">
           <h2
             class="font-semibold text-xl sm:text-2xl md:text-4xl text-neutral-9 dark-text-white"
           >
-            1+
+            3
           </h2>
-          <p class="mt-2 text-neutral7 dark-text-neutral3">Год</p>
+          <p class="mt-2 text-neutral7 dark-text-neutral3">Дизайнеров</p>
         </div>
       </div>
     </div>
