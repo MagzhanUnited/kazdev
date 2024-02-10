@@ -2,7 +2,7 @@
   <main class="flex-1">
     <SectionsHeroSection />
     <SectionsSocialProuf />
-    <!-- <SectionsLogoCloud /> -->
+    <SectionsLogoCloud />
     <SectionsServices />
     <SectionsAboutContent />
     <!-- <SectionsCta /> -->
