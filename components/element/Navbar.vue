@@ -4,10 +4,7 @@
       <nav w-full flex justify-between gap-6 relative>
         <div min-w-max inline-flex relative>
           <nuxt-link to="/" relative flex items-center gap-3>
-            <span class="flex">
-              <span w3 h6 rd-l-full flex bg-emerald-6></span>
-              <span w3 h6 rd-r-full flex bg-teal-4 mt1.5></span>
-            </span>
+            <NuxtImg src="/logos/logo.png" height="80" alt="" />
             <div inline-flex text="lg neutral-8 dark:white" font-semibold>
               Kazdev
             </div>
