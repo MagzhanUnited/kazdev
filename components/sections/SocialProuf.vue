@@ -11,7 +11,7 @@
           <h2
             class="font-semibold text-xl sm:text-2xl md:text-4xl text-neutral-9 dark-text-white"
           >
-            12+
+            5+
           </h2>
           <p class="mt-2 text-neutral7 dark-text-neutral3">Созданных проект</p>
         </div>
@@ -20,7 +20,7 @@
           <h2
             class="font-semibold text-xl sm:text-2xl md:text-4xl text-neutral-9 dark-text-white"
           >
-            200+
+            7+
           </h2>
           <p class="mt-2 text-neutral7 dark-text-neutral3">Проект</p>
         </div>
@@ -29,7 +29,7 @@
           <h2
             class="font-semibold text-xl sm:text-2xl md:text-4xl text-neutral-9 dark-text-white"
           >
-            120
+            5
           </h2>
           <p class="mt-2 text-neutral7 dark-text-neutral3">Довольные клиенты</p>
         </div>
@@ -38,7 +38,7 @@
           <h2
             class="font-semibold text-xl sm:text-2xl md:text-4xl text-neutral-9 dark-text-white"
           >
-            5+
+            1+
           </h2>
           <p class="mt-2 text-neutral7 dark-text-neutral3">Год</p>
         </div>
