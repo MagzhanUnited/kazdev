@@ -168,9 +168,6 @@ const footerLinks = [
         un-text="neutral-7 dark:neutral-3"
         class="w-full flex flex-col md-flex-row gap-4 items-center sm-justify-between py3"
       >
-        <div text="center sm:left" class="flex sm-min-w-max">
-          <p>&copy; 2023 UnifyUI. All right reserved</p>
-        </div>
         <div class="flex justify-center sm-justify-end w-full gap-3">
           <nuxt-link to="#" aria-label="social link">
             <span i-carbon-logo-facebook text-2xl flex></span>
