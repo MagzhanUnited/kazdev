@@ -106,7 +106,7 @@
               </span>
               <input
                 type="email"
-                placeholder="johndoe@gmail.com"
+                placeholder="kazdev@gmail.com"
                 w-full
                 py-3
                 outline-none
