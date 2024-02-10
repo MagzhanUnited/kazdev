@@ -5,7 +5,7 @@
     <SectionsLogoCloud />
     <SectionsServices />
     <SectionsAboutContent />
-    <!-- <SectionsCta /> -->
+    <SectionsCta />
   </main>
 </template>
 
