@@ -15,8 +15,7 @@ useHead({
   meta: [
     {
       name: "description",
-      content:
-        "A sample landing page built using UnoCSS + NuxtJS and Unify UI blocks",
+      content: "Разработчики IT продукт",
     },
   ],
   link: [
