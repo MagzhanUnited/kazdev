@@ -89,13 +89,17 @@ const footerLinks = [
         class="w-full grid grid-cols-2 lg-grid-cols-4 gap-8 pb4"
       >
         <div class="flex">
-          <nuxt-link to="#">
-            <span
-              class="text-transparent bg-clip-text bg-gradient-to-tr from-emerald-8 to-teal-4 font-bold text-2xl"
-              >U</span
-            >
-            Kazdev
-          </nuxt-link>
+          <div min-w-max inline-flex relative>
+            <nuxt-link to="/" relative flex items-center gap-3>
+              <span class="flex">
+                <span w3 h6 rd-l-full flex bg-emerald-6></span>
+                <span w3 h6 rd-r-full flex bg-teal-4 mt1.5></span>
+              </span>
+              <div inline-flex text="lg neutral-8 dark:white" font-semibold>
+                Kazdev
+              </div>
+            </nuxt-link>
+          </div>
         </div>
         <div class="flex items-center space-x-2">
           <span i-carbon-location flex text-xl></span>
@@ -110,7 +114,7 @@ const footerLinks = [
           <span>kazdev@gmail.com</span>
         </div>
       </div>
-      <nav
+      <!-- <nav
         text="neutral-7 dark:neutral-3"
         class="grid grid-cols-2 md-grid-cols-3 lg-grid-cols-4 gap-y-10 gap-8 py-10"
       >
@@ -182,7 +186,7 @@ const footerLinks = [
             <span i-carbon-logo-instagram text-2xl flex></span>
           </nuxt-link>
         </div>
-      </div>
+      </div> -->
     </div>
   </footer>
 </template>
