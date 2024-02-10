@@ -33,7 +33,7 @@ const logos = [
 ];
 </script>
 <template>
-  <!-- <section class="py20">
+  <section class="py20">
     <div class="max-w-7xl mx-auto px5 sm-px10 md-px12 lg-px5 space-y-10">
       <div class="text-center space-y-6 max-w-2xl mx-auto">
         <h1 class="text-3xl font-bold text-gray9 dark-text-white capitalize">
@@ -57,5 +57,5 @@ const logos = [
         </div>
       </div>
     </div>
-  </section> -->
+  </section>
 </template>
