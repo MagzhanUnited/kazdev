@@ -96,7 +96,7 @@ const footerLinks = [
                 <span w3 h6 rd-r-full flex bg-teal-4 mt1.5></span>
               </span> -->
 
-              <NuxtImg src="/logos/logo.png" height="50" alt="" />
+              <NuxtImg src="/images/logo.png" height="50" alt="" />
               <div inline-flex text="lg neutral-8 dark:white" font-semibold>
                 Kazdev
               </div>
